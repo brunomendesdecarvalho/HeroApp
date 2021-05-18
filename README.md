@@ -1,6 +1,6 @@
-# hero
+# Hero App
 
-A new Flutter project.
+Done with Flutter/Dart on Linux. Tested on Linux and Chrome Web Browser.
 
 ## Getting Started
 
